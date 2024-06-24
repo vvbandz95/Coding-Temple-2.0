@@ -1,0 +1,44 @@
+full_name = "Valeria Lake"
+print(full_name)
+
+myName = "Valeria"
+myname = "Lake" 
+
+print(myName)
+print(myname)
+
+print(myName, myname)
+
+fav_color = "pink"
+
+print(fav_color)
+
+fruit1, fruit2, fruit3 = "apple", "banana", "cherry"
+print(fruit1, fruit2, fruit3)
+print(fruit1)
+print(fruit2)
+print(fruit3)
+
+integer_var = 5
+float_var = 3.45
+string_var = "Hey heauxs"
+
+print(integer_var, type(integer_var))
+print(float_var, type(float_var))
+print(string_var, type(string_var))
+
+mystery_variable = "1234."
+
+variable_type = type(mystery_variable)
+
+print(variable_type)
+
+dynamicVar = 10 
+print(dynamicVar, type(dynamicVar))
+
+dynamicVar = "Python is a lil diff rn"
+print(dynamicVar, type(dynamicVar))
+
+if = 5
+    
+PI = 3.14159
